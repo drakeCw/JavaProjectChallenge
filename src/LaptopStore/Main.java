@@ -6,5 +6,6 @@ public class Main {
         PriceOneForLaptop priceOneForLaptop = new PriceOneForLaptop();
 
         System.out.println("Eklenecek Fiyat: " + priceOneForLaptop.getPrice(110001));
+        
     }
 }
